@@ -8,13 +8,13 @@ https://github.com/RoboCupatHomeSim/human-navigation-unity
 This project requires the Photon server and Oculus. Please see the following page for setting up the Photon server.  
 http://www.sigverse.org/wiki/en/index.php?%28HSR%29Cleanup%20Task%20using%20Cloud%20and%20VR
 
----
+
 ## Prerequisites
 
 - OS: Windows 10
 - Unity version: 2018.4.11f1
 
----
+
 ## How to Use
 
 ### Build
@@ -52,7 +52,7 @@ http://www.sigverse.org/wiki/en/index.php?%28HSR%29Cleanup%20Task%20using%20Clou
 1. Press the "Session Start" button on the local machine (for VR)
 1. Press the "Session Start" button on the server machine (for robot)
 
----
+
 ## License
 
 This project is licensed under the SIGVerse License - see the LICENSE.txt file for details.
