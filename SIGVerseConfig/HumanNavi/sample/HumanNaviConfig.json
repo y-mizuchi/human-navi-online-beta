@@ -1,0 +1,26 @@
+{
+	"teamName":"Human Navigation Online",
+	"sessionTimeLimit":"600",
+	"recoverUsingScoreFile": false,
+	"maxNumberOfTrials": 10,
+	"playbackType": 1,
+	"photonServerMachine": false,
+	"taskInfoList":[
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"},
+		{"environment":"ExampleLayoutHN05#01","target":"apple#01", "destination":"destination#03"}
+	],
+	"photonAppIdRuntime":"",
+	"photonUseNameServer": false,
+	"photonServerIP":"192.168.0.1",
+	"photonPort": 5055,
+	"showImitator": true,
+	"isImitatorTarget": true
+}
